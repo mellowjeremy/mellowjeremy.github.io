@@ -1,4 +1,4 @@
-## [Discography](./discography/README.md)
+## [Discography](./discography/)
 
 <!--
 **mellowjeremy/mellowjeremy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
