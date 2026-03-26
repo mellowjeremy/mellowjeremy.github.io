@@ -17,12 +17,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Latest Release
+### Latest Releases
 **[This Time (2025)](./discography/this-time.md)**
 *Released June 2025*  
 **[Futurity (2017)](./discography/futurity.md)**
 *Released June 2017*  
 **[Reflection (2017)](./discography/reflection.md)**
+*Released May 2017*  
+**[Eras (2016)](./discography/eras.md)**
 *Released May 2017*  
 
 
