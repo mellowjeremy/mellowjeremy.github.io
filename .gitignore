@@ -1,0 +1,34 @@
+# --- System & OS ---
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+ehthumbs.db
+
+# --- Large Audio & Media ---
+# Never upload raw masters or stems (they will break the 100MB GitHub limit)
+*.wav
+*.aif
+*.aiff
+*.flac
+*.m4a
+# Ignore high-res video assets
+*.mov
+*.mp4
+
+# --- Music Production / DAW Files ---
+*.als        # Ableton Live
+*.logicx     # Logic Pro
+*.flp        # FL Studio
+*.protools   # Pro Tools
+*.asd        # Ableton Analysis files
+*.bak        # Backup files
+*.tmp        # Temporary files
+
+# --- Web & Static Site ---
+# If you eventually use Jekyll or a site generator
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+node_modules/
