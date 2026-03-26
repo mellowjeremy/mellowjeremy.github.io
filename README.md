@@ -18,6 +18,10 @@ Here are some ideas to get you started:
 -->
 
 ### Latest Releases
+**[Aviate (2025)](./discography/aviate.md)**
+*Released June 2025*  
+**[Afterthought (2025)](./discography/afterthought.md)**
+*Released June 2025*  
 **[This Time (2025)](./discography/this-time.md)**
 *Released June 2025*  
 **[Futurity (2017)](./discography/futurity.md)**
