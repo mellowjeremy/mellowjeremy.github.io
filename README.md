@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 **[Ten Years (2017)](./discography/ten-years.md)**
 *Released January 2017*  
 **[Eras (2016)](./discography/eras.md)**
-*Released May 2017*  
+*Released April 2016*  
 
 
 [![Apple Music](https://img.shields.io/badge/Apple_Music-FA243C?style=for-the-badge&logo=apple-music&logoColor=white)](https://music.apple.com/us/artist/mellow-jeremy/208595675)
