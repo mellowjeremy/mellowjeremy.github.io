@@ -1,5 +1,5 @@
 ## This Time (2025)
-<img src="../assets/covers/this-time.jpg" width="300" alt="This Time Album Cover">
+<img src="../assets/album-covers/this-time.jpg" width="300" alt="This Time Album Cover">
 
 **Genre:** Electronic / Techno
 **Release Date:** June 22, 2025
