@@ -20,6 +20,10 @@ Here are some ideas to get you started:
 ### Latest Release
 **[This Time (2025)](./discography/this-time.md)**
 *Released June 2025*
+**[Futurity (2017)](./discography/futurity.md)**
+*Released June 2017*
+**[Reflection (2017)](./discography/reflection.md)**
+*Released May 2017*
 
 
 [![Apple Music](https://img.shields.io/badge/Apple_Music-FA243C?style=for-the-badge&logo=apple-music&logoColor=white)](https://music.apple.com/us/artist/mellow-jeremy/208595675)
