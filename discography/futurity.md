@@ -23,7 +23,7 @@
 | 4 | Apparently | 07:37 | [Listen](https://mellowjeremy.com/apparently.html) |
 | 5 | Spinning Tops | 06:07 | [Listen](https://mellowjeremy.com/spinning-tops.html) |
 | 6 | Futurity | 05:12 | [Listen](https://mellowjeremy.com/futurity.html) |
-| 7 | Space Moments | 06:07 | [Listen](https://mellowjeremy.com/space-moments.html) |
+| 7 | Space Moments | 06:07 | [Listen](https://mellowjeremy.com/space-moments2.html) |
 
 [⬅ Back to Discography](./README.md)
 
