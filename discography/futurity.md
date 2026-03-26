@@ -2,7 +2,7 @@
 ---
 
 ## Futurity (2017)
-<img src="../assets/album-covers/this-time.jpg" width="300" alt="This Time Album Cover">
+<img src="../assets/album-covers/futurity.jpg" width="300" alt="Futurity Album Cover">
 
 **Genre:** Electronic / Techno
 **Release Date:** June 17, 2017
