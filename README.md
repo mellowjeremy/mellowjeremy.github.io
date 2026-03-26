@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 
 [![Apple Music](https://img.shields.io/badge/Apple_Music-FA243C?style=for-the-badge&logo=apple-music&logoColor=white)](https://music.apple.com/us/artist/mellow-jeremy/208595675)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/artist/1Or16kQNTL797DeImPhY68)
+[![Bandcamp](https://img.shields.io/badge/Bandcamp-1EA0C4?style=for-the-badge&logo=bandcamp&logoColor=white)](https://mellowjeremy.bandcamp.com)
 
 
 
