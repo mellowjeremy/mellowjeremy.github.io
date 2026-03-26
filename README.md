@@ -28,6 +28,8 @@ Here are some ideas to get you started:
 *Released June 2017*  
 **[Reflection (2017)](./discography/reflection.md)**
 *Released May 2017*  
+**[Ten Years (2017)](./discography/ten-years.md)**
+*Released May 2017*  
 **[Eras (2016)](./discography/eras.md)**
 *Released May 2017*  
 
