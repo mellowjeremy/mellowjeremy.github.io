@@ -10,5 +10,6 @@
 | 2017 | **Reflection** | LP | [View Tracks](./reflection.md) |
 | 2017 | **Ten Years** | LP | [View Tracks](./ten-years.md) |
 | 2016 | **Eras** | LP | [View Tracks](./eras.md) |
+| 2016 | **The Early Years** | LP | [View Tracks](./the-early-years.md) |
 
 [⬅ Back to Home](../README.md)
