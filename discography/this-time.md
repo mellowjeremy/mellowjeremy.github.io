@@ -8,6 +8,8 @@
 **Release Date:** June 22, 2025
 **Label:** Mellow Jeremy Recordings
 
+[![Bandcamp](https://img.shields.io/badge/Bandcamp-1EA0C4?style=flat-square&logo=bandcamp&logoColor=white)](https://mellowjeremy.bandcamp.com/album/this-time)
+
 ### 💿 Tracklist
 
 
