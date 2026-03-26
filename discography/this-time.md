@@ -13,7 +13,7 @@
 
 | # | Title | Listen |
 | :--- | :--- |: ---| :--- |
-| 1 | In Tech Mind | [Listen](https://mellowjeremy.com/this-time-album.html) |
+| 1 | In Tech Mind | [Listen](https://mellowjeremy.com/in-tech-mind.html) |
 | 2 | Open Eyes | [Listen](https://mellowjeremy.com/this-time-album.html) |
 | 3 | As a Believer | [Listen](https://mellowjeremy.com/this-time-album.html) |
 | 4 | Get On | [Listen](https://mellowjeremy.com/this-time-album.html) |
