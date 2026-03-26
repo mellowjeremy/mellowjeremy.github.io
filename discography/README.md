@@ -14,5 +14,6 @@
 | 2015 | **Lift You Up** | LP | [View Tracks](./lift-you-up.md) |
 | 2015 | **Night Sky** | Single | [View Tracks](./night-sky.md) |
 | 2014 | **That Time** | EP | [View Tracks](./that-time.md) |
+| 2014 | **The Future Mix 2** | EP | [View Tracks](./the-future-mix-2.md) |
 
 [⬅ Back to Home](../README.md)
