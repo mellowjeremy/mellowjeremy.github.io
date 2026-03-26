@@ -11,7 +11,7 @@
 ### 💿 Tracklist
 
 | # | Title | Listen |
-|---|-------|--------|
+| :--- | :--- |: ---| :--- |
 | 1 | In Tech Mind | [Listen](https://mellowjeremy.com/this-time-album.html) |
 | 2 | Open Eyes | [Listen](https://mellowjeremy.com/this-time-album.html) |
 | 3 | As a Believer | [Listen](https://mellowjeremy.com/this-time-album.html) |
