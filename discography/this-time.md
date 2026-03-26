@@ -22,6 +22,6 @@
 | 7 | A Journey of Years | [Listen](https://mellowjeremy.com/a-journey-of-years.html) |
 | 8 | Keep Up | [Listen](https://mellowjeremy.com/keep-up.html) |
 | 9 | Bringin The Sound | [Listen](https://mellowjeremy.com/bringin-the-sound.html) |
-| 10 | Right Back (Remix) [Bonus] | [Listen](https://mellowjeremy.com/right-back.html) |
+| 10 | Right Back (Remix) [Bonus] | [Listen](https://mellowjeremy.com/right-back-remix.html) |
 
 [⬅ Back to Discography](./README.md)
