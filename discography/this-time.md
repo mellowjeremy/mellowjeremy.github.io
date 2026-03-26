@@ -11,7 +11,7 @@
 ### 💿 Tracklist
 
 
-| # | Title | Listen |
+| # | Title | Time | Listen |
 | :--- | :--- |: ---| :--- |
 | 1 | In Tech Mind | 05:45 | [Listen](https://mellowjeremy.com/in-tech-mind.html) |
 | 2 | Open Eyes | [Listen](https://mellowjeremy.com/open-eyes.html) |
