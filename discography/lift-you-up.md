@@ -9,7 +9,7 @@
 **Label:** Mellow Jeremy Recordings
 
 [![Apple Music](https://img.shields.io/badge/Apple_Music-FA243C?style=flat-square&logo=apple-music&logoColor=white)](https://music.apple.com/us/album/lift-you-up/1021377069)
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=flat-square&logo=spotify&logoColor=white)]([https://open.spotify.com/album/2rCNSSwhsqIlLRUNWvr1jE](https://open.spotify.com/album/7l8x4azGlp8AwQEfQgFlH7))
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/album/7l8x4azGlp8AwQEfQgFlH7)
 [![Bandcamp](https://img.shields.io/badge/Bandcamp-1EA0C4?style=flat-square&logo=bandcamp&logoColor=white)](https://mellowjeremy.bandcamp.com/album/lift-you-up)
 
 ### 💿 Tracklist
