@@ -1,3 +1,5 @@
+![Mellow Jeremy Banner](./assets/banner.jpg)
+
 ## [Discography](./discography/)
 
 <!--
