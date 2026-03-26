@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Latest Release
+**[This Time (2025)](./discography/this-time.md)**
+*Released June 2025*
+
 
 ---
 ## ⚖️ Licensing
