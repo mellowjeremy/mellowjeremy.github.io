@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+---
+## ⚖️ Licensing
+The website structure and Markdown code in this repository are licensed under the [MIT License](./LICENSE).
+
+**All music, album artwork, and lyrics are © 2026 Mellow Jeremy.**
+*Unless otherwise noted, audio content is provided for personal listening only and is licensed under [All Rights Reserved]*
