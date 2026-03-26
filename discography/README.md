@@ -3,6 +3,8 @@
 
 | Year | Album Title | Type | Details |
 | :--- | :--- | :--- | :--- |
+| 2025 | **Aviate** | Single | [View Tracks](./aviate.md) |
+| 2025 | **Afterthought** | Single | [View Tracks](./afterthought.md) |
 | 2025 | **This Time** | LP | [View Tracks](./this-time.md) |
 | 2017 | **Futurity** | LP | [View Tracks](./futurity.md) |
 | 2017 | **Reflection** | LP | [View Tracks](./reflection.md) |
