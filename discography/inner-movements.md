@@ -22,7 +22,7 @@
 | 3 | Motivated | 04:11 | [Listen](https://mellowjeremy.com/motivated.html) |
 | 4 | Dimensions | 06:33 | [Listen](https://mellowjeremy.com/dimensions.html) |
 | 5 | Inner Movements | 04:45 | [Listen](https://mellowjeremy.com/inner-movements.html) |
-| 6 | Textures | 05:41 | [Listen](https://mellowjeremy.com/textureshtml) |
+| 6 | Textures | 05:41 | [Listen](https://mellowjeremy.com/textures.html) |
 | 7 | Make It Through The Night | 07:01 | [Listen](https://mellowjeremy.com/make-it-through-the-night.html) |
 | 8 | Tones Moving | 06:10 | [Listen](https://mellowjeremy.com/tones-moving.html) |
 | 9 | Momentary | 05:30 | [Listen](https://mellowjeremy.com/momentary.html) |
