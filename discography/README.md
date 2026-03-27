@@ -23,5 +23,8 @@
 | 2012 | **Eh Yeah** | Single | [View Tracks](./eh-yeah.md) |
 | 2012 | **Sequenced** | LP | [View Tracks](./sequenced.md) |
 | 2011 | **Technological Existence** | LP | [View Tracks](./technological-existence.md) |
+| 2009 | **Electro Realizations** | LP | [View Tracks](./electro-realizations.md) |
+| 2008 | **Interesting Motions** | LP | [View Tracks](./interesting-motions.md) |
+| 2006 | **Galaxy Persuasions** | LP | [View Tracks](./galaxy-persuasions.md) |
 
 [⬅ Back to Home](../README.md)
