@@ -20,5 +20,6 @@
 | 2013 | **Sometimes** | LP | [View Tracks](./sometimes.md) |
 | 2013 | **This Goes Out** | Single | [View Tracks](./this-goes-out.md) |
 | 2013 | **Space Things** | LP | [View Tracks](./space-things.md) |
+| 2012 | **Eh Yeah** | Single | [View Tracks](./eh-yeah.md) |
 
 [⬅ Back to Home](../README.md)
