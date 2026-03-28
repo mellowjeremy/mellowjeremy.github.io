@@ -17,13 +17,13 @@
 
 | # | Title | Time | Listen |
 | :--- | :--- |: ---| :--- |
-| 1 | Moonlight | 08:09 | [Listen](https://mellowjeremy.com/moonlight.html) |
-| 2 | Elevator | 05:34 | [Listen](https://mellowjeremy.com/elevator.html) |
-| 3 | Bring In The Rhythm | 06:05 | [Listen](https://mellowjeremy.com/bring-in-the-rhythm.html) |
-| 4 | Impulse | 05:04 | [Listen](https://mellowjeremy.com/impulse.html) |
-| 5 | Wonders | 06:06 | [Listen](https://mellowjeremy.com/wonders.html) |
-| 6 | Afterthought | 06:40 | [Listen](https://mellowjeremy.com/afterthought.html) |
-| 7 | Synthesized | 12:06 | [Listen](https://mellowjeremy.com/synthesized.html) |
+| 1 | Moonlight | 08:09 | [Listen](https://mellowjeremy.bandcamp.com/track/moonlight) |
+| 2 | Elevator | 05:34 | [Listen](https://mellowjeremy.bandcamp.com/track/elevator) |
+| 3 | Bring In The Rhythm | 06:05 | [Listen](https://mellowjeremy.bandcamp.com/track/bring-in-the-rhythm) |
+| 4 | Impulse | 05:04 | [Listen](https://mellowjeremy.bandcamp.com/track/impulse) |
+| 5 | Wonders | 06:06 | [Listen](https://mellowjeremy.bandcamp.com/track/wonders) |
+| 6 | Afterthought | 06:40 | [Listen](https://mellowjeremy.bandcamp.com/track/afterthought) |
+| 7 | Synthesized | 12:06 | [Listen](https://mellowjeremy.bandcamp.com/track/synthesized) |
 
 [⬅ Back to Discography](./README.md)
 
