@@ -15,14 +15,14 @@
 
 | # | Title | Time | Listen |
 | :--- | :--- |: ---| :--- |
-| 1 | Rockets Prelude | 05:30 | [Listen](https://mellowjeremy.com/rockets-prelude.html) |
-| 2 | Process Emotions | 05:34 | [Listen](https://mellowjeremy.com/process-emotions.html) |
-| 3 | Let's All Get Down | 06:08 | [Listen](https://mellowjeremy.com/lets-all-get-down.html) |
-| 4 | An Electronic | 03:32 | [Listen](https://mellowjeremy.com/an-electronic.html) |
-| 5 | Ride In Funk Computer | 05:24 | [Listen](https://mellowjeremy.com/ride-in-funk-computer.html) |
-| 6 | Mood Changes | 05:07 | [Listen](https://mellowjeremy.com/mood-changes.html) |
-| 7 | Paradigm | 06:00 | [Listen](https://mellowjeremy.com/paradigm.html) |
-| 8 | Motions to Defy | 08:35 | [Listen](https://mellowjeremy.com/motions-to-defy.html) |
+| 1 | Rockets Prelude | 05:30 | [Listen](https://mellowjeremy.bandcamp.com/track/rockets-prelude) |
+| 2 | Process Emotions | 05:34 | [Listen](https://mellowjeremy.bandcamp.com/track/process-emotions) |
+| 3 | Let's All Get Down | 06:08 | [Listen](https://mellowjeremy.bandcamp.com/track/lets-all-get-down) |
+| 4 | An Electronic | 03:32 | [Listen](https://mellowjeremy.bandcamp.com/track/an-electronic) |
+| 5 | Ride In Funk Computer | 05:24 | [Listen](https://mellowjeremy.bandcamp.com/track/ride-in-funk-computer) |
+| 6 | Mood Changes | 05:07 | [Listen](https://mellowjeremy.bandcamp.com/track/mood-changes) |
+| 7 | Paradigm | 06:00 | [Listen](https://mellowjeremy.bandcamp.com/track/paradigm) |
+| 8 | Motions to Defy | 08:35 | [Listen](https://mellowjeremy.bandcamp.com/track/motions-to-defy) |
 
 [⬅ Back to Discography](./README.md)
 
