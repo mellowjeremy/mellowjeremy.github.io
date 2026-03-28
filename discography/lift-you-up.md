@@ -17,15 +17,15 @@
 
 | # | Title | Time | Listen |
 | :--- | :--- |: ---| :--- |
-| 1 | Tilted | 08:22 | [Listen](https://mellowjeremy.com/tilted.html) |
-| 2 | Lift You Up | 06:40 | [Listen](https://mellowjeremy.com/lift-you-up.html) |
-| 3 | Opaque | 06:26 | [Listen](https://mellowjeremy.com/opaque.html) |
-| 4 | Night Sky | 05:09 | [Listen](https://mellowjeremy.com/night-sky.html) |
-| 5 | Parallels | 05:08 | [Listen](https://mellowjeremy.com/parallels.html) |
-| 6 | Quantum | 05:09 | [Listen](https://mellowjeremy.com/quantum.html) |
-| 7 | Continuum | 07:14 | [Listen](https://mellowjeremy.com/continuum.html) |
-| 8 | Summer Visions | 06:09 | [Listen](https://mellowjeremy.com/summer-visions.html) |
-| 9 | Vertical | 05:08 | [Listen](https://mellowjeremy.com/vertical.html) |
+| 1 | Tilted | 08:22 | [Listen](https://mellowjeremy.bandcamp.com/track/tilted) |
+| 2 | Lift You Up | 06:40 | [Listen](https://mellowjeremy.bandcamp.com/track/lift-you-up) |
+| 3 | Opaque | 06:26 | [Listen](https://mellowjeremy.bandcamp.com/track/opaque) |
+| 4 | Night Sky | 05:09 | [Listen](https://mellowjeremy.bandcamp.com/track/night-sky) |
+| 5 | Parallels | 05:08 | [Listen](https://mellowjeremy.bandcamp.com/track/parallels) |
+| 6 | Quantum | 05:09 | [Listen](https://mellowjeremy.bandcamp.com/track/quantum) |
+| 7 | Continuum | 07:14 | [Listen](https://mellowjeremy.bandcamp.com/track/continuum) |
+| 8 | Summer Visions | 06:09 | [Listen](https://mellowjeremy.bandcamp.com/track/summer-visions) |
+| 9 | Vertical | 05:08 | [Listen](https://mellowjeremy.bandcamp.com/track/vertical) |
 
 [⬅ Back to Discography](./README.md)
 
