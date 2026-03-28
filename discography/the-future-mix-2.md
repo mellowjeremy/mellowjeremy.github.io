@@ -33,7 +33,7 @@
 | 14 | Make It Through The Night | 07:01 | [Listen](https://mellowjeremy.bandcamp.com/track/make-it-through-the-night-fm2) |
 | 15 | Electro Waves | 05:47 | [Listen](https://mellowjeremy.bandcamp.com/track/electro-waves-fm2) |
 | 16 | In Tech | 05:02 | [Listen](https://mellowjeremy.bandcamp.com/track/in-tech-fm2) |
-| 17 | The Future Mix 2 - Continuous Mix | 01\:00:00 | [Listen](https://audius.co/mellowjeremy/the-future-mix-2-continuous-mix-by-mellow-jeremy) |
+| 17 | The Future Mix 2 - Continuous Mix | 01\:00:00 | [Listen](https://soundcloud.com/mellow-jeremy/the-future-mix-2) |
 
 [⬅ Back to Discography](./README.md)
 
