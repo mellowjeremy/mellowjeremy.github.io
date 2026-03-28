@@ -17,12 +17,12 @@
 
 | # | Title | Time | Listen |
 | :--- | :--- |: ---| :--- |
-| 1 | Vintage | 06:39 | [Listen](https://mellowjeremy.com/vintage.html) |
-| 2 | Forward | 05:03 | [Listen](https://mellowjeremy.com/forward.html) |
-| 3 | That Time | 05:10 | [Listen](https://mellowjeremy.com/that-time-2014-mix.html) |
-| 4 | Ions | 07:50 | [Listen](https://mellowjeremy.com/ions.html) |
-| 5 | Filtered Odyssey | 04:42 | [Listen](https://mellowjeremy.com/filtered-odyssey.html) |
-| 6 | The Way Things Were | 07:31 | [Listen](https://mellowjeremy.com/the-way-things-were.html) |
+| 1 | Vintage | 06:39 | [Listen](https://mellowjeremy.bandcamp.com/track/vintage) |
+| 2 | Forward | 05:03 | [Listen](https://mellowjeremy.bandcamp.com/track/forward) |
+| 3 | That Time | 05:10 | [Listen](https://mellowjeremy.bandcamp.com/track/that-time) |
+| 4 | Ions | 07:50 | [Listen](https://mellowjeremy.bandcamp.com/track/ions) |
+| 5 | Filtered Odyssey | 04:42 | [Listen](https://mellowjeremy.bandcamp.com/track/filtered-odyssey) |
+| 6 | The Way Things Were | 07:31 | [Listen](https://mellowjeremy.bandcamp.com/track/the-way-things-were) |
 
 [⬅ Back to Discography](./README.md)
 
