@@ -17,15 +17,15 @@
 
 | # | Title | Time | Listen |
 | :--- | :--- |: ---| :--- |
-| 1 | Sometimes | 06:10 | [Listen](https://mellowjeremy.com/sometimes.html) |
-| 2 | Escalating | 05:21 | [Listen](https://mellowjeremy.com/escalating.html) |
-| 3 | Electronic Islands | 04:05 | [Listen](https://mellowjeremy.com/electronic-islands.html) |
-| 4 | Oceanic Moments | 05:16 | [Listen](https://mellowjeremy.com/oceanic-moments.html) |
-| 5 | Electro Waves | 05:47 | [Listen](https://mellowjeremy.com/electro-waves.html) |
-| 6 | Startz and Stopz | 05:08 | [Listen](https://mellowjeremy.com/startz-and-stopz.html) |
-| 7 | Styles | 05:33 | [Listen](https://mellowjeremy.com/styles.html) |
-| 8 | Return | 06:09 | [Listen](https://mellowjeremy.com/return.html) |
-| 9 | Dreaming | 11:12 | [Listen](https://mellowjeremy.com/dreaming.html) |
+| 1 | Sometimes | 06:10 | [Listen](https://mellowjeremy.bandcamp.com/track/sometimes) |
+| 2 | Escalating | 05:21 | [Listen](https://mellowjeremy.bandcamp.com/track/escalating) |
+| 3 | Electronic Islands | 04:05 | [Listen](https://mellowjeremy.bandcamp.com/track/electronic-islands) |
+| 4 | Oceanic Moments | 05:16 | [Listen](https://mellowjeremy.bandcamp.com/track/oceanic-moments) |
+| 5 | Electro Waves | 05:47 | [Listen](https://mellowjeremy.bandcamp.com/track/electro-waves) |
+| 6 | Startz and Stopz | 05:08 | [Listen](https://mellowjeremy.bandcamp.com/track/startz-and-stopz) |
+| 7 | Styles | 05:33 | [Listen](https://mellowjeremy.bandcamp.com/track/styles) |
+| 8 | Return | 06:09 | [Listen](https://mellowjeremy.bandcamp.com/track/return) |
+| 9 | Dreaming | 11:12 | [Listen](https://mellowjeremy.bandcamp.com/track/dreaming) |
 
 [⬅ Back to Discography](./README.md)
 
