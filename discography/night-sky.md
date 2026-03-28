@@ -17,9 +17,9 @@
 
 | # | Title | Time | Listen |
 | :--- | :--- |: ---| :--- |
-| 1 | Night Sky - Original Mix | 05:10 | [Listen](https://mellowjeremy.com/night-sky-original-mix.html) |
-| 2 | Night Sky - Chill Warp Mix | 06:15 | [Listen](https://mellowjeremy.com/night-sky-chill-warp-mix.html) |
-| 3 | Night Sky - Radio Edit | 03:06 | [Listen](https://mellowjeremy.com/night-sky-radio-edit.html) |
+| 1 | Night Sky - Original Mix | 05:10 | [Listen](https://mellowjeremy.bandcamp.com/track/night-sky-original-mix) |
+| 2 | Night Sky - Chill Warp Mix | 06:15 | [Listen](https://mellowjeremy.bandcamp.com/track/night-sky-chill-warp-mix) |
+| 3 | Night Sky - Radio Edit | 03:06 | [Listen](https://mellowjeremy.bandcamp.com/track/night-sky-radio-edit) |
 
 
 [⬅ Back to Discography](./README.md)
