@@ -17,16 +17,16 @@
 
 | # | Title | Time | Listen |
 | :--- | :--- |: ---| :--- |
-| 1 | Vivid | 04:34 | [Listen](https://mellowjeremy.com/vivid.html) |
-| 2 | Into Light | 06:09 | [Listen](https://mellowjeremy.com/into-light.html) |
-| 3 | Motivated | 04:11 | [Listen](https://mellowjeremy.com/motivated.html) |
-| 4 | Dimensions | 06:33 | [Listen](https://mellowjeremy.com/dimensions.html) |
-| 5 | Inner Movements | 04:45 | [Listen](https://mellowjeremy.com/inner-movements.html) |
-| 6 | Textures | 05:41 | [Listen](https://mellowjeremy.com/textures.html) |
-| 7 | Make It Through The Night | 07:01 | [Listen](https://mellowjeremy.com/make-it-through-the-night.html) |
-| 8 | Tones Moving | 06:10 | [Listen](https://mellowjeremy.com/tones-moving.html) |
-| 9 | Momentary | 05:30 | [Listen](https://mellowjeremy.com/momentary.html) |
-| 10 | Bit-by-Bit | 06:58 | [Listen](https://mellowjeremy.com/bit-by-bit.html) |
+| 1 | Vivid | 04:34 | [Listen](https://mellowjeremy.bandcamp.com/track/vivid) |
+| 2 | Into Light | 06:09 | [Listen](https://mellowjeremy.bandcamp.com/track/into-light) |
+| 3 | Motivated | 04:11 | [Listen](https://mellowjeremy.bandcamp.com/track/motivated) |
+| 4 | Dimensions | 06:33 | [Listen](https://mellowjeremy.bandcamp.com/track/dimensions) |
+| 5 | Inner Movements | 04:45 | [Listen](https://mellowjeremy.bandcamp.com/track/inner-movements) |
+| 6 | Textures | 05:41 | [Listen](https://mellowjeremy.bandcamp.com/track/textures) |
+| 7 | Make It Through The Night | 07:01 | [Listen](https://mellowjeremy.bandcamp.com/track/make-it-through-the-night) |
+| 8 | Tones Moving | 06:10 | [Listen](https://mellowjeremy.bandcamp.com/track/tones-moving) |
+| 9 | Momentary | 05:30 | [Listen](https://mellowjeremy.bandcamp.com/track/momentary) |
+| 10 | Bit-by-Bit | 06:58 | [Listen](https://mellowjeremy.bandcamp.com/track/bit-by-bit) |
 
 [⬅ Back to Discography](./README.md)
 
