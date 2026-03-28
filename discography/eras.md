@@ -17,15 +17,15 @@
 
 | # | Title | Time | Listen |
 | :--- | :--- |: ---| :--- |
-| 1 | Distant | 06:05 | [Listen](https://mellowjeremy.com/distant.html) |
-| 2 | Drift | 03:37 | [Listen](https://mellowjeremy.com/drift.html) |
-| 3 | Bright Side | 07:03 | [Listen](https://mellowjeremy.com/bright-side.html) |
-| 4 | Down Down Down | 07:43 | [Listen](https://mellowjeremy.com/down-down-down.html) |
-| 5 | Elaborate | 06:07 | [Listen](https://mellowjeremy.com/elaborate.html) |
-| 6 | Eras | 07:14 | [Listen](https://mellowjeremy.com/eras.html) |
-| 7 | Quadrants | 07:44 | [Listen](https://mellowjeremy.com/quadrants.html) |
-| 8 | Spirals | 07:22 | [Listen](https://mellowjeremy.com/spirals.html) |
-| 9 | Down Down Bonus | 04:42 | [Listen](https://mellowjeremy.com/down-down-bonus.html) |
+| 1 | Distant | 06:05 | [Listen](https://mellowjeremy.bandcamp.com/track/distant) |
+| 2 | Drift | 03:37 | [Listen](https://mellowjeremy.bandcamp.com/track/drift) |
+| 3 | Bright Side | 07:03 | [Listen](https://mellowjeremy.bandcamp.com/track/bright-side) |
+| 4 | Down Down Down | 07:43 | [Listen](https://mellowjeremy.bandcamp.com/track/down-down-down) |
+| 5 | Elaborate | 06:07 | [Listen](https://mellowjeremy.bandcamp.com/track/elaborate) |
+| 6 | Eras | 07:14 | [Listen](https://mellowjeremy.bandcamp.com/track/eras) |
+| 7 | Quadrants | 07:44 | [Listen](https://mellowjeremy.bandcamp.com/track/quadrants) |
+| 8 | Spirals | 07:22 | [Listen](https://mellowjeremy.bandcamp.com/track/spirals) |
+| 9 | Down Down Bonus | 04:42 | [Listen](https://mellowjeremy.bandcamp.com/track/down-down-bonus) |
 
 [⬅ Back to Discography](./README.md)
 
