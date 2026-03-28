@@ -17,8 +17,8 @@
 
 | # | Title | Time | Listen |
 | :--- | :--- |: ---| :--- |
-| 1 | Afterthought - Original Mix | 06:40 | [Listen](https://mellowjeremy.com/afterthought-original-mix.html) |
-| 2 | Afterthought - Club Edit | 07:07 | [Listen](https://mellowjeremy.com/afterthought-club-edit.html) |
+| 1 | Afterthought - Original Mix | 06:40 | [Listen](https://mellowjeremy.bandcamp.com/track/afterthought-original-mix) |
+| 2 | Afterthought - Club Edit | 07:07 | [Listen](https://mellowjeremy.bandcamp.com/track/afterthought-club-edit) |
 
 [⬅ Back to Discography](./README.md)
 
