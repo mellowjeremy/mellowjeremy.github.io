@@ -15,8 +15,8 @@
 
 | # | Title | Time | Listen |
 | :--- | :--- |: ---| :--- |
-| 1 | This Goes Out - Original Mix | 06:35 | [Listen](https://mellowjeremy.com/this-goes-out-original-mix.html) |
-| 2 | This Goes Out - House Mix | 05:41 | [Listen](https://mellowjeremy.com/this-goes-out-house-mix.html) |
+| 1 | This Goes Out - Original Mix | 06:35 | [Listen](https://mellowjeremy.bandcamp.com/track/this-goes-out-original-mix) |
+| 2 | This Goes Out - House Mix | 05:41 | [Listen](https://mellowjeremy.bandcamp.com/track/this-goes-out-house-mix) |
 
 [⬅ Back to Discography](./README.md)
 
