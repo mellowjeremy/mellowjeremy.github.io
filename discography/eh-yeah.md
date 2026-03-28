@@ -15,9 +15,9 @@
 
 | # | Title | Time | Listen |
 | :--- | :--- |: ---| :--- |
-| 1 | Eh Yeah - Original Mix | 06:10 | [Listen](https://mellowjeremy.com/eh-yeah-original-mix.html) |
-| 2 | Eh Yeah - Hi-Tek Mix | 06:10 | [Listen](https://mellowjeremy.com/eh-yeah-hi-tek-mix.html) |
-| 3 | Eh Yeah - Super-Chill Mix | 08:11 | [Listen](https://mellowjeremy.com/eh-yeah-super-chill-mix.html) |
+| 1 | Eh Yeah - Original Mix | 06:10 | [Listen](https://mellowjeremy.bandcamp.com/track/eh-yeah-original-mix) |
+| 2 | Eh Yeah - Hi-Tek Mix | 06:10 | [Listen](https://mellowjeremy.bandcamp.com/track/eh-yeah-hi-tek-mix) |
+| 3 | Eh Yeah - Super-Chill Mix | 08:11 | [Listen](https://mellowjeremy.bandcamp.com/track/eh-yeah-super-chill-mix) |
 
 [⬅ Back to Discography](./README.md)
 
