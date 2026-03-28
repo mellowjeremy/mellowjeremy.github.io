@@ -15,9 +15,9 @@
 
 | # | Title | Time | Listen |
 | :--- | :--- |: ---| :--- |
-| 1 | Aviate - Original Mix | 08:15 | [Listen](https://mellowjeremy.com/aviate-original-mix.html) |
-| 2 | Aviate - Radio Edit | 03:37 | [Listen](https://mellowjeremy.com/aviate-radio-edit.html) |
-| 3 | Aviate - Remix | 06:05 | [Listen](https://mellowjeremy.com/aviate-remix.html) |
+| 1 | Aviate - Original Mix | 08:15 | [Listen](https://mellowjeremy.bandcamp.com/track/aviate-original-mix) |
+| 2 | Aviate - Radio Edit | 03:37 | [Listen](https://mellowjeremy.bandcamp.com/track/aviate-radio-edit) |
+| 3 | Aviate - Remix | 06:05 | [Listen](https://mellowjeremy.bandcamp.com/track/aviate-remix) |
 
 [⬅ Back to Discography](./README.md)
 
