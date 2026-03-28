@@ -17,13 +17,13 @@
 
 | # | Title | Time | Listen |
 | :--- | :--- |: ---| :--- |
-| 1 | Elasticity | 04:43 | [Listen](https://mellowjeremy.com/elasticity.html) |
-| 2 | Spectral | 06:27 | [Listen](https://mellowjeremy.com/spectral.html) |
-| 3 | Cyril | 05:48 | [Listen](https://mellowjeremy.com/cyril.html) |
-| 4 | Apparently | 07:37 | [Listen](https://mellowjeremy.com/apparently.html) |
-| 5 | Spinning Tops | 06:07 | [Listen](https://mellowjeremy.com/spinning-tops.html) |
-| 6 | Futurity | 05:12 | [Listen](https://mellowjeremy.com/futurity.html) |
-| 7 | Space Moments | 06:07 | [Listen](https://mellowjeremy.com/space-moments2.html) |
+| 1 | Elasticity | 04:43 | [Listen](https://mellowjeremy.bandcamp.com/track/elasticity) |
+| 2 | Spectral | 06:27 | [Listen](https://mellowjeremy.bandcamp.com/track/spectral) |
+| 3 | Cyril | 05:48 | [Listen](https://mellowjeremy.bandcamp.com/track/cyril) |
+| 4 | Apparently | 07:37 | [Listen](https://mellowjeremy.bandcamp.com/track/apparently) |
+| 5 | Spinning Tops | 06:07 | [Listen](https://mellowjeremy.bandcamp.com/track/spinning-tops) |
+| 6 | Futurity | 05:12 | [Listen](https://mellowjeremy.bandcamp.com/track/futurity) |
+| 7 | Space Moments | 06:07 | [Listen](https://mellowjeremy.bandcamp.com/track/space-moments) |
 
 [⬅ Back to Discography](./README.md)
 
