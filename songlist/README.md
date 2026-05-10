@@ -48,13 +48,13 @@
 | **Down Down Bonus** | 4:42 | 126 | [View Track](https://mellowjeremy.bandcamp.com/track/down-down-bonus) |
 | **Down Down Down** | 7:43 | 126 | [View Track](https://mellowjeremy.bandcamp.com/track/down-down-down) |
 | **Dreaming** | 11:12 | 126 | [View Track](https://mellowjeremy.bandcamp.com/track/dreaming) |
-| **Aviate** | 815 | 126 | [View Track]() |
-| **Aviate** | 815 | 126 | [View Track]() |
-| **Aviate** | 815 | 126 | [View Track]() |
-| **Aviate** | 815 | 126 | [View Track]() |
-| **Aviate** | 815 | 126 | [View Track]() |
-| **Aviate** | 815 | 126 | [View Track]() |
-| **Aviate** | 815 | 126 | [View Track]() |
+| **Drift** | 3:37 | 128 | [View Track](https://mellowjeremy.bandcamp.com/track/drift) |
+| **Eh Yeah - Hi-Tek Mix** | 6:10 | 125 | [View Track](https://mellowjeremy.bandcamp.com/track/eh-yeah-hi-tek-mix) |
+| **Eh Yeah - Original Mix** | 6:10 | 125 | [View Track](https://mellowjeremy.bandcamp.com/track/eh-yeah-original-mix) |
+| **Eh Yeah - Super-Chill Mix** | 8:11 | 126 | [View Track](https://mellowjeremy.bandcamp.com/track/eh-yeah-super-chill-mix) |
+| **Elaborate** | 7:14 | 126 | [View Track](https://mellowjeremy.bandcamp.com/track/elaborate) |
+| **Elasticity** | 4:43 | 126 | [View Track](https://mellowjeremy.bandcamp.com/track/elasticity) |
+| **Electro Waves** | 5:47 | 127 | [View Track](https://mellowjeremy.bandcamp.com/track/electro-waves) |
 | **Aviate** | 815 | 126 | [View Track]() |
 
 
