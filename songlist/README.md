@@ -2,7 +2,7 @@
 
 | Song | Time | BPM | Details |
 | :--- | :--- | :--- | :--- |
-| **2 Day** | 5:06 | 140 | [View Tracks](./aviate.md) |
+| **2 Day** | 5:06 | 140 | [View Track](https://mellowjeremy.bandcamp.com/track/2-day) |
 | 2025 | **Afterthought** | Single | [View Tracks](./afterthought.md) |
 | 2025 | **This Time** | LP | [View Tracks](./this-time.md) |
 | 2017 | **Futurity** | LP | [View Tracks](./futurity.md) |
