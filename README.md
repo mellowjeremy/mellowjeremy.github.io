@@ -1,6 +1,7 @@
 ![Mellow Jeremy Banner](./assets/banner.jpg)
 
 ## [Discography](./discography/)
+## [Songlist](./songlist/)
 
 <!--
 **mellowjeremy/mellowjeremy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
