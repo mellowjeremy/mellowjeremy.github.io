@@ -8,8 +8,8 @@
 | **A Living Experience** | 8:32 | 140 | [View Track](https://mellowjeremy.bandcamp.com/track/a-living-experience) |
 | **A Living Experience - Dark Mix** | 8:30 | 140 | [View Track](https://mellowjeremy.bandcamp.com/track/a-living-experience-dark-mix) |
 | **A Living Experience - Remastered 2026** | 8:32 | 140 | [View Track](https://mellowjeremy.bandcamp.com/track/a-living-experience-2) |
-| 2016 | **Eras** | LP | [View Tracks](./eras.md) |
-| 2016 | **The Early Years** | LP | [View Tracks](./the-early-years.md) |
+| **Afterthought** | 6:40 | 126 | [View Track](https://mellowjeremy.bandcamp.com/track/afterthought) |
+| **Afterthought - Club Edit** | 7:07 | 126 | [View Track](https://mellowjeremy.bandcamp.com/track/afterthought-club-edit) |
 | 2015 | **Lift You Up** | LP | [View Tracks](./lift-you-up.md) |
 | 2015 | **Night Sky** | Single | [View Tracks](./night-sky.md) |
 | 2014 | **That Time** | EP | [View Tracks](./that-time.md) |
