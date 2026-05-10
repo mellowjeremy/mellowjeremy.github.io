@@ -25,5 +25,13 @@
 | **Atmospheres - Gradient Mix** | 8:25 | 123 | [View Track](https://mellowjeremy.bandcamp.com/track/atmospheres-gradient-mix) |
 | **Aviate** | 8:15 | 126 | [View Track](https://mellowjeremy.bandcamp.com/track/aviate) |
 | **Aviate - Original Mix** | 8:15 | 126 | [View Track](https://mellowjeremy.bandcamp.com/track/aviate-original-mix) |
+| **Aviate - Radio Edit** | 3:37 | 126 | [View Track](https://mellowjeremy.bandcamp.com/track/aviate-radio-edit) |
+| **Aviate - Remix** | 6:05 | 126 | [View Track](https://mellowjeremy.bandcamp.com/track/aviate-remix) |
+| **Aviate** | 815 | 126 | [View Track]() |
+| **Aviate** | 815 | 126 | [View Track]() |
+| **Aviate** | 815 | 126 | [View Track]() |
+| **Aviate** | 815 | 126 | [View Track]() |
+| **Aviate** | 815 | 126 | [View Track]() |
+
 
 [⬅ Back to Home](../README.md)
