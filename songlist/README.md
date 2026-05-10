@@ -27,7 +27,13 @@
 | **Aviate - Original Mix** | 8:15 | 126 | [View Track](https://mellowjeremy.bandcamp.com/track/aviate-original-mix) |
 | **Aviate - Radio Edit** | 3:37 | 126 | [View Track](https://mellowjeremy.bandcamp.com/track/aviate-radio-edit) |
 | **Aviate - Remix** | 6:05 | 126 | [View Track](https://mellowjeremy.bandcamp.com/track/aviate-remix) |
-| **Aviate** | 815 | 126 | [View Track]() |
+| **Back to House Music** | 7:27 | 140 | [View Track](https://mellowjeremy.bandcamp.com/track/back-to-house-music) |
+| **Back to House Music - Groove Mix** | 7:34 | 140 | [View Track](https://mellowjeremy.bandcamp.com/track/back-to-house-music-groove-mix) |
+| **Back to House Music - Remastered 2026** | 7:27 | 140 | [View Track](https://mellowjeremy.bandcamp.com/track/back-to-house-music-2) |
+| **Be** | 6:00 | 140 | [View Track](https://mellowjeremy.bandcamp.com/track/be) |
+| **Bit-by-Bit** | 6:58 | 129 | [View Track](https://mellowjeremy.bandcamp.com/track/bit-by-bit) |
+| **Boards** | 5:09 | 125 | [View Track](https://mellowjeremy.bandcamp.com/track/boards) |
+| **Bright Side** | 7:03 | 128 | [View Track](https://mellowjeremy.bandcamp.com/track/bright-side) |
 | **Aviate** | 815 | 126 | [View Track]() |
 | **Aviate** | 815 | 126 | [View Track]() |
 | **Aviate** | 815 | 126 | [View Track]() |
