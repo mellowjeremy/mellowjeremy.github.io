@@ -21,9 +21,9 @@
 | **Apparently** | 7:37 | 128 | [View Track](https://mellowjeremy.bandcamp.com/track/apparently) |
 | **As a Believer** | 6:37 |  | [View Track](https://mellowjeremy.bandcamp.com/track/as-a-believer) |
 | **At It** | 4:07 | 124 | [View Track](https://mellowjeremy.bandcamp.com/track/at-it) |
-| 2011 | **Technological Existence** | LP | [View Tracks](./technological-existence.md) |
-| 2009 | **Electro Realizations** | LP | [View Tracks](./electro-realizations.md) |
-| 2008 | **Interesting Motions** | LP | [View Tracks](./interesting-motions.md) |
-| 2006 | **Galaxy Persuasions** | LP | [View Tracks](./galaxy-persuasions.md) |
+| **Atmospheres** | 6:25 | 135 | [View Track](https://mellowjeremy.bandcamp.com/track/atmospheres) |
+| **Atmospheres - Gradient Mix** | 8:25 | 123 | [View Track](https://mellowjeremy.bandcamp.com/track/atmospheres-gradient-mix) |
+| **Aviate** | 8:15 | 126 | [View Track](https://mellowjeremy.bandcamp.com/track/aviate) |
+| **Aviate - Original Mix** | 8:15 | 126 | [View Track](https://mellowjeremy.bandcamp.com/track/aviate-original-mix) |
 
 [⬅ Back to Home](../README.md)
