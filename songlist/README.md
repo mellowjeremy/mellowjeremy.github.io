@@ -12,10 +12,10 @@
 | **Afterthought - Club Edit** | 7:07 | 126 | [View Track](https://mellowjeremy.bandcamp.com/track/afterthought-club-edit) |
 | **Afterthought - Original Mix** | 6:40 | 126 | [View Track](https://mellowjeremy.bandcamp.com/track/afterthought-original-mix) |
 | **Afterthought - Repeaced Mix** | 7:07 | 126 | [View Track](https://mellowjeremy.bandcamp.com/track/afterthought-repeaced-mix) |
-| 2014 | **That Time** | EP | [View Tracks](./that-time.md) |
-| 2014 | **The Future Mix 2** | LP | [View Tracks](./the-future-mix-2.md) |
-| 2014 | **Inner Movements** | LP | [View Tracks](./inner-movements.md) |
-| 2013 | **Moonlight** | EP | [View Tracks](./moonlight.md) |
+| **Aliens** | 4:11 | 125 | [View Track](https://mellowjeremy.bandcamp.com/track/aliens) |
+| **Already There** | 6:17 | 126 | [View Track](https://mellowjeremy.bandcamp.com/track/already-there) |
+| **An Electronic** | 3:32 | 140 | [View Track](https://mellowjeremy.bandcamp.com/track/an-electronic) |
+| **An Electronic - Extended Mix** | 10:04 | 139 | [View Track](https://mellowjeremy.bandcamp.com/track/an-electronic-extended-mix) |
 | 2013 | **Sometimes** | LP | [View Tracks](./sometimes.md) |
 | 2013 | **This Goes Out** | Single | [View Tracks](./this-goes-out.md) |
 | 2013 | **Space Things** | LP | [View Tracks](./space-things.md) |
