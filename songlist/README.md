@@ -16,11 +16,11 @@
 | **Already There** | 6:17 | 126 | [View Track](https://mellowjeremy.bandcamp.com/track/already-there) |
 | **An Electronic** | 3:32 | 140 | [View Track](https://mellowjeremy.bandcamp.com/track/an-electronic) |
 | **An Electronic - Extended Mix** | 10:04 | 139 | [View Track](https://mellowjeremy.bandcamp.com/track/an-electronic-extended-mix) |
-| 2013 | **Sometimes** | LP | [View Tracks](./sometimes.md) |
-| 2013 | **This Goes Out** | Single | [View Tracks](./this-goes-out.md) |
-| 2013 | **Space Things** | LP | [View Tracks](./space-things.md) |
-| 2012 | **Eh Yeah** | Single | [View Tracks](./eh-yeah.md) |
-| 2012 | **Sequenced** | LP | [View Tracks](./sequenced.md) |
+| **Animation of Deep Sound** | 5:48 | 124 | [View Track](https://mellowjeremy.bandcamp.com/track/animation-of-deep-sound) |
+| **Animation of Deep Sound - Remastered 2026** | 5:48 | 124 | [View Track](https://mellowjeremy.bandcamp.com/track/animation-of-deep-sound-2) |
+| **Apparently** | 7:37 | 128 | [View Track](https://mellowjeremy.bandcamp.com/track/apparently) |
+| **As a Believer** | 6:37 |  | [View Track](https://mellowjeremy.bandcamp.com/track/as-a-believer) |
+| **At It** | 4:07 | 124 | [View Track](https://mellowjeremy.bandcamp.com/track/at-it) |
 | 2011 | **Technological Existence** | LP | [View Tracks](./technological-existence.md) |
 | 2009 | **Electro Realizations** | LP | [View Tracks](./electro-realizations.md) |
 | 2008 | **Interesting Motions** | LP | [View Tracks](./interesting-motions.md) |
