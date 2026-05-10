@@ -39,8 +39,8 @@
 | **Coating** | 4:54 | 140 | [View Track](https://mellowjeremy.bandcamp.com/track/coating) |
 | **Continuum** | 7:14 | 126 | [View Track](https://mellowjeremy.bandcamp.com/track/continuum) |
 | **Cruncher** | 4:02 | 127 | [View Track](https://mellowjeremy.bandcamp.com/track/cruncher) |
-| **Aviate** | 815 | 126 | [View Track]() |
-| **Aviate** | 815 | 126 | [View Track]() |
+| **Cyril** | 5:48 | 124 | [View Track](https://mellowjeremy.bandcamp.com/track/cyril) |
+| **Deep Box** | 5:52 | 120 | [View Track](https://mellowjeremy.bandcamp.com/track/deep-box) |
 | **Aviate** | 815 | 126 | [View Track]() |
 | **Aviate** | 815 | 126 | [View Track]() |
 | **Aviate** | 815 | 126 | [View Track]() |
