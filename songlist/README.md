@@ -10,8 +10,8 @@
 | **A Living Experience - Remastered 2026** | 8:32 | 140 | [View Track](https://mellowjeremy.bandcamp.com/track/a-living-experience-2) |
 | **Afterthought** | 6:40 | 126 | [View Track](https://mellowjeremy.bandcamp.com/track/afterthought) |
 | **Afterthought - Club Edit** | 7:07 | 126 | [View Track](https://mellowjeremy.bandcamp.com/track/afterthought-club-edit) |
-| 2015 | **Lift You Up** | LP | [View Tracks](./lift-you-up.md) |
-| 2015 | **Night Sky** | Single | [View Tracks](./night-sky.md) |
+| **Afterthought - Original Mix** | 6:40 | 126 | [View Track](https://mellowjeremy.bandcamp.com/track/afterthought-original-mix) |
+| **Afterthought - Repeaced Mix** | 7:07 | 126 | [View Track](https://mellowjeremy.bandcamp.com/track/afterthought-repeaced-mix) |
 | 2014 | **That Time** | EP | [View Tracks](./that-time.md) |
 | 2014 | **The Future Mix 2** | LP | [View Tracks](./the-future-mix-2.md) |
 | 2014 | **Inner Movements** | LP | [View Tracks](./inner-movements.md) |
