@@ -4,7 +4,7 @@
 | :--- | :--- | :--- | :--- |
 | **2 Day** | 5:06 | 140 | [View Track](https://mellowjeremy.bandcamp.com/track/2-day) |
 | **21st Century** | 13:32 | 140 | [View Track](https://mellowjeremy.bandcamp.com/track/21st-century) |
-| **A Journey of Years | 6:48 |  | [View Track](https://mellowjeremy.bandcamp.com/track/a-journey-of-years) |
+| **A Journey of Years** | 6:48 |  | [View Track](https://mellowjeremy.bandcamp.com/track/a-journey-of-years) |
 | 2017 | **Futurity** | LP | [View Tracks](./futurity.md) |
 | 2017 | **Reflection** | LP | [View Tracks](./reflection.md) |
 | 2017 | **Ten Years** | LP | [View Tracks](./ten-years.md) |
