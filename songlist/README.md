@@ -1,6 +1,6 @@
 # Songlist
 
-| Year | Album Title | Type | Details |
+| Song | Time | BPM | Details |
 | :--- | :--- | :--- | :--- |
 | 2025 | **Aviate** | Single | [View Tracks](./aviate.md) |
 | 2025 | **Afterthought** | Single | [View Tracks](./afterthought.md) |
