@@ -34,6 +34,14 @@
 | **Bit-by-Bit** | 6:58 | 129 | [View Track](https://mellowjeremy.bandcamp.com/track/bit-by-bit) |
 | **Boards** | 5:09 | 125 | [View Track](https://mellowjeremy.bandcamp.com/track/boards) |
 | **Bright Side** | 7:03 | 128 | [View Track](https://mellowjeremy.bandcamp.com/track/bright-side) |
+| **Bring in the Rhythm** | 6:05 | 126 | [View Track](https://mellowjeremy.bandcamp.com/track/bring-in-the-rhythm) |
+| **Bringin the Sound** | 8:00 |  | [View Track](https://mellowjeremy.bandcamp.com/track/bringin-the-sound) |
+| **Coating** | 4:54 | 140 | [View Track](https://mellowjeremy.bandcamp.com/track/coating) |
+| **Continuum** | 7:14 | 126 | [View Track](https://mellowjeremy.bandcamp.com/track/continuum) |
+| **Cruncher** | 4:02 | 127 | [View Track](https://mellowjeremy.bandcamp.com/track/cruncher) |
+| **Aviate** | 815 | 126 | [View Track]() |
+| **Aviate** | 815 | 126 | [View Track]() |
+| **Aviate** | 815 | 126 | [View Track]() |
 | **Aviate** | 815 | 126 | [View Track]() |
 | **Aviate** | 815 | 126 | [View Track]() |
 | **Aviate** | 815 | 126 | [View Track]() |
