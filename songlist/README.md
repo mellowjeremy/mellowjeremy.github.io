@@ -7,7 +7,7 @@
 | **A Journey of Years** | 6:48 |  | [View Track](https://mellowjeremy.bandcamp.com/track/a-journey-of-years) |
 | **A Living Experience** | 8:32 | 140 | [View Track](https://mellowjeremy.bandcamp.com/track/a-living-experience) |
 | **A Living Experience - Dark Mix** | 8:30 | 140 | [View Track](https://mellowjeremy.bandcamp.com/track/a-living-experience-dark-mix) |
-| **A Living Experience - Remastered 2026 | 8:32 | 140 | [View Track](https://mellowjeremy.bandcamp.com/track/a-living-experience-2) |
+| **A Living Experience - Remastered 2026** | 8:32 | 140 | [View Track](https://mellowjeremy.bandcamp.com/track/a-living-experience-2) |
 | 2016 | **Eras** | LP | [View Tracks](./eras.md) |
 | 2016 | **The Early Years** | LP | [View Tracks](./the-early-years.md) |
 | 2015 | **Lift You Up** | LP | [View Tracks](./lift-you-up.md) |
