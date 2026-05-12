@@ -67,9 +67,9 @@
 | **Forward** | 5:03 | 127 | [View Track](https://mellowjeremy.bandcamp.com/track/forward) |
 | **Free Fall** | 9:16 | 135 | [View Track](https://mellowjeremy.bandcamp.com/track/free-fall) |
 | **Futurist** | 5:43 | 126 | [View Track](https://mellowjeremy.bandcamp.com/track/futurist) |
-| **Aviate** | 815 | 126 | [View Track]() |
-| **Aviate** | 815 | 126 | [View Track]() |
-| **Aviate** | 815 | 126 | [View Track]() |
+| **Futurity** | 5:12 | 126 | [View Track](https://mellowjeremy.bandcamp.com/track/futurity) |
+| **Galaxies** | 5:56 | 140 | [View Track](https://mellowjeremy.bandcamp.com/track/galaxies) |
+| **Geared Up** | 7:10 | 127 | [View Track](https://mellowjeremy.bandcamp.com/track/geared-up) |
 | **Aviate** | 815 | 126 | [View Track]() |
 | **Aviate** | 815 | 126 | [View Track]() |
 | **Aviate** | 815 | 126 | [View Track]() |
