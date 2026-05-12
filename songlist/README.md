@@ -61,8 +61,8 @@
 | **Eras** | 9:08 | 126 | [View Track](https://mellowjeremy.bandcamp.com/track/eras) |
 | **Escalating** | 5:21 | 120 | [View Track](https://mellowjeremy.bandcamp.com/album/sometimes) |
 | **Exo** | 5:31 | 127 | [View Track](https://mellowjeremy.bandcamp.com/track/exo) |
-| **Aviate** | 815 | 126 | [View Track]() |
-| **Aviate** | 815 | 126 | [View Track]() |
+| **Extra** | 7:18 | 140 | [View Track](https://mellowjeremy.bandcamp.com/track/extra) |
+| **Faster** | 7:53 | 140 | [View Track](https://mellowjeremy.bandcamp.com/track/faster) |
 | **Aviate** | 815 | 126 | [View Track]() |
 | **Aviate** | 815 | 126 | [View Track]() |
 | **Aviate** | 815 | 126 | [View Track]() |
