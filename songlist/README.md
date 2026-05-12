@@ -113,10 +113,10 @@
 | **Motivated** | 4:11 | 126 | [View Track](https://mellowjeremy.bandcamp.com/track/motivated) |
 | **Night Sky** | 5:09 | 128 | [View Track](https://mellowjeremy.bandcamp.com/track/night-sky) |
 | **Night Sky - Chill Warp Mix** | 6:15 | 113 | [View Track](https://mellowjeremy.bandcamp.com/track/night-sky-chill-warp-mix) |
-| **Aviate** | 815 | 126 | [View Track]() |
-| **Aviate** | 815 | 126 | [View Track]() |
-| **Aviate** | 815 | 126 | [View Track]() |
-| **Aviate** | 815 | 126 | [View Track]() |
+| **Night Sky - Original Mix** | 5:10 | 128 | [View Track](https://mellowjeremy.bandcamp.com/track/night-sky-original-mix) |
+| **Night Sky - Radio Edit** | 3:06 | 128 | [View Track](https://mellowjeremy.bandcamp.com/track/night-sky-radio-edit) |
+| **Oceanic Moments** | 5:16 | 126 | [View Track](https://mellowjeremy.bandcamp.com/track/oceanic-moments) |
+| **Opaque** | 6:26 | 126 | [View Track](https://mellowjeremy.bandcamp.com/track/opaque) |
 | **Aviate** | 815 | 126 | [View Track]() |
 | **Aviate** | 815 | 126 | [View Track]() |
 | **Aviate** | 815 | 126 | [View Track]() |
