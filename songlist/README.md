@@ -75,6 +75,15 @@
 | **Got to Dream** | 7:13 | 135 | [View Track](https://mellowjeremy.bandcamp.com/track/got-to-dream) |
 | **Gravitational Pull** | 9:04 | 127 | [View Track](https://mellowjeremy.bandcamp.com/track/gravitational-pull) |
 | **Hard Tek** | 5:29 | 140 | [View Track](https://mellowjeremy.bandcamp.com/track/hard-tek) |
+| **Horizon** | 5:11 | 139 | [View Track](https://mellowjeremy.bandcamp.com/track/horizon) |
+| **Horizon - Filtered Mix** | 5:09 | 139 | [View Track](https://mellowjeremy.bandcamp.com/track/horizon-filtered-mix) |
+| **Hot Spot** | 7:16 | 128 | [View Track](https://mellowjeremy.bandcamp.com/track/hot-spot) |
+| **How Many** | 4:06 | 140 | [View Track](https://mellowjeremy.bandcamp.com/track/how-many) |
+| **Hypersound** | 5:20 | 135 | [View Track](https://mellowjeremy.bandcamp.com/track/hypersound) |
+| **I Got Love** | 5:17 | 127 | [View Track](https://mellowjeremy.bandcamp.com/track/i-got-love) |
+| **I Got Love - Remix** | 5:13 | 127 | [View Track](https://mellowjeremy.bandcamp.com/track/i-got-love-remix) |
+| **Aviate** | 815 | 126 | [View Track]() |
+| **Aviate** | 815 | 126 | [View Track]() |
 | **Aviate** | 815 | 126 | [View Track]() |
 | **Aviate** | 815 | 126 | [View Track]() |
 | **Aviate** | 815 | 126 | [View Track]() |
