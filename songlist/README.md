@@ -57,10 +57,10 @@
 | **Electro Waves** | 5:47 | 127 | [View Track](https://mellowjeremy.bandcamp.com/track/electro-waves) |
 | **Electronic Islands** | 4:05 | 126 | [View Track](https://mellowjeremy.bandcamp.com/track/electronic-islands) |
 | **Electronic Islands - Shuffle Mix** | 4:16 | 124 | [View Track](https://mellowjeremy.bandcamp.com/track/electronic-islands-shuffle-mix) |
-| **Aviate** | 815 | 126 | [View Track]() |
-| **Aviate** | 815 | 126 | [View Track]() |
-| **Aviate** | 815 | 126 | [View Track]() |
-| **Aviate** | 815 | 126 | [View Track]() |
+| **Elevator** | 5:34 | 129 | [View Track](https://mellowjeremy.bandcamp.com/track/elevator) |
+| **Eras** | 9:08 | 126 | [View Track](https://mellowjeremy.bandcamp.com/track/eras) |
+| **Escalating** | 5:21 | 120 | [View Track](https://mellowjeremy.bandcamp.com/album/sometimes) |
+| **Exo** | 5:31 | 127 | [View Track](https://mellowjeremy.bandcamp.com/track/exo) |
 | **Aviate** | 815 | 126 | [View Track]() |
 | **Aviate** | 815 | 126 | [View Track]() |
 | **Aviate** | 815 | 126 | [View Track]() |
