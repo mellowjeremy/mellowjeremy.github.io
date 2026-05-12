@@ -59,7 +59,7 @@
 | **Electronic Islands - Shuffle Mix** | 4:16 | 124 | [View Track](https://mellowjeremy.bandcamp.com/track/electronic-islands-shuffle-mix) |
 | **Elevator** | 5:34 | 129 | [View Track](https://mellowjeremy.bandcamp.com/track/elevator) |
 | **Eras** | 9:08 | 126 | [View Track](https://mellowjeremy.bandcamp.com/track/eras) |
-| **Escalating** | 5:21 | 120 | [View Track](https://mellowjeremy.bandcamp.com/album/sometimes) |
+| **Escalating** | 5:21 | 120 | [View Track](https://mellowjeremy.bandcamp.com/track/escalating) |
 | **Exo** | 5:31 | 127 | [View Track](https://mellowjeremy.bandcamp.com/track/exo) |
 | **Extra** | 7:18 | 140 | [View Track](https://mellowjeremy.bandcamp.com/track/extra) |
 | **Faster** | 7:53 | 140 | [View Track](https://mellowjeremy.bandcamp.com/track/faster) |
