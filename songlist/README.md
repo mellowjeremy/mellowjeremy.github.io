@@ -96,6 +96,17 @@
 | **Let's All Get Down** | 6:08 | 140 | [View Track](https://mellowjeremy.bandcamp.com/track/lets-all-get-down) |
 | **Let's All Get Down - Original Mix** | 6:08 | 140 | [View Track](https://mellowjeremy.bandcamp.com/track/lets-all-get-down-original-mix) |
 | **Let's All Get Down - Remix** | 8:10 | 133 | [View Track](https://mellowjeremy.bandcamp.com/track/lets-all-get-down-remix-2) |
+| **Lift You Up** | 6:40 | 126 | [View Track](https://mellowjeremy.bandcamp.com/track/lift-you-up) |
+| **Light and Dark** | 5:32 | 125 | [View Track](https://mellowjeremy.bandcamp.com/track/light-and-dark) |
+| **Light and Dark - Remastered 2026** | 5:32 | 125 | [View Track](https://mellowjeremy.bandcamp.com/track/light-and-dark-2) |
+| **Light and Dark - Session Edit** | 5:29 | 127 | [View Track](https://mellowjeremy.bandcamp.com/track/light-and-dark-session-edit) |
+| **Make it Through the Night** | 7:01 | 129 | [View Track](https://mellowjeremy.bandcamp.com/track/make-it-through-the-night) |
+| **Make it Through the Night - Remix** | 7:18 | 124 | [View Track](https://mellowjeremy.bandcamp.com/track/make-it-through-the-night-remix) |
+| **Aviate** | 815 | 126 | [View Track]() |
+| **Aviate** | 815 | 126 | [View Track]() |
+| **Aviate** | 815 | 126 | [View Track]() |
+| **Aviate** | 815 | 126 | [View Track]() |
+| **Aviate** | 815 | 126 | [View Track]() |
 | **Aviate** | 815 | 126 | [View Track]() |
 | **Aviate** | 815 | 126 | [View Track]() |
 | **Aviate** | 815 | 126 | [View Track]() |
