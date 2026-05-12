@@ -55,6 +55,16 @@
 | **Elaborate** | 7:14 | 126 | [View Track](https://mellowjeremy.bandcamp.com/track/elaborate) |
 | **Elasticity** | 4:43 | 126 | [View Track](https://mellowjeremy.bandcamp.com/track/elasticity) |
 | **Electro Waves** | 5:47 | 127 | [View Track](https://mellowjeremy.bandcamp.com/track/electro-waves) |
+| **Electronic Islands** | 4:05 | 126 | [View Track](https://mellowjeremy.bandcamp.com/track/electronic-islands) |
+| **Electronic Islands - Shuffle Mix** | 4:16 | 124 | [View Track](https://mellowjeremy.bandcamp.com/track/electronic-islands-shuffle-mix) |
+| **Aviate** | 815 | 126 | [View Track]() |
+| **Aviate** | 815 | 126 | [View Track]() |
+| **Aviate** | 815 | 126 | [View Track]() |
+| **Aviate** | 815 | 126 | [View Track]() |
+| **Aviate** | 815 | 126 | [View Track]() |
+| **Aviate** | 815 | 126 | [View Track]() |
+| **Aviate** | 815 | 126 | [View Track]() |
+| **Aviate** | 815 | 126 | [View Track]() |
 | **Aviate** | 815 | 126 | [View Track]() |
 
 
