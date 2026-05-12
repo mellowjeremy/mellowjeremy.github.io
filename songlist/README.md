@@ -63,9 +63,18 @@
 | **Exo** | 5:31 | 127 | [View Track](https://mellowjeremy.bandcamp.com/track/exo) |
 | **Extra** | 7:18 | 140 | [View Track](https://mellowjeremy.bandcamp.com/track/extra) |
 | **Faster** | 7:53 | 140 | [View Track](https://mellowjeremy.bandcamp.com/track/faster) |
+| **Filtered Odyssey** | 4:42 | 126 | [View Track](https://mellowjeremy.bandcamp.com/track/filtered-odyssey) |
+| **Forward** | 5:03 | 127 | [View Track](https://mellowjeremy.bandcamp.com/track/forward) |
+| **Free Fall** | 9:16 | 135 | [View Track](https://mellowjeremy.bandcamp.com/track/free-fall) |
+| **Futurist** | 5:43 | 126 | [View Track](https://mellowjeremy.bandcamp.com/track/futurist) |
 | **Aviate** | 815 | 126 | [View Track]() |
 | **Aviate** | 815 | 126 | [View Track]() |
 | **Aviate** | 815 | 126 | [View Track]() |
+| **Aviate** | 815 | 126 | [View Track]() |
+| **Aviate** | 815 | 126 | [View Track]() |
+| **Aviate** | 815 | 126 | [View Track]() |
+| **Aviate** | 815 | 126 | [View Track]() |
+
 
 
 [⬅ Back to Home](../README.md)
