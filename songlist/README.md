@@ -117,6 +117,14 @@
 | **Night Sky - Radio Edit** | 3:06 | 128 | [View Track](https://mellowjeremy.bandcamp.com/track/night-sky-radio-edit) |
 | **Oceanic Moments** | 5:16 | 126 | [View Track](https://mellowjeremy.bandcamp.com/track/oceanic-moments) |
 | **Opaque** | 6:26 | 126 | [View Track](https://mellowjeremy.bandcamp.com/track/opaque) |
+| **Open Eyes** | 7:20 |  | [View Track](https://mellowjeremy.bandcamp.com/track/open-eyes) |
+| **Orbits** | 6:13 | 126 | [View Track](https://mellowjeremy.bandcamp.com/track/orbits) |
+| **Aviate** | 815 | 126 | [View Track]() |
+| **Aviate** | 815 | 126 | [View Track]() |
+| **Aviate** | 815 | 126 | [View Track]() |
+| **Aviate** | 815 | 126 | [View Track]() |
+| **Aviate** | 815 | 126 | [View Track]() |
+| **Aviate** | 815 | 126 | [View Track]() |
 | **Aviate** | 815 | 126 | [View Track]() |
 | **Aviate** | 815 | 126 | [View Track]() |
 | **Aviate** | 815 | 126 | [View Track]() |
