@@ -127,6 +127,14 @@
 | **Process Emotions** | 5:34 | 121 | [View Track](https://mellowjeremy.bandcamp.com/track/process-emotions) |
 | **Quadrants** | 7:44 | 127 | [View Track](https://mellowjeremy.bandcamp.com/track/quadrants) |
 | **Quantum** | 5:09 | 124 | [View Track](https://mellowjeremy.bandcamp.com/track/quantum) |
+| **Quartz** | 4:36 | 127 | [View Track](https://mellowjeremy.bandcamp.com/track/quartz) |
+| **Realize** | 4:23 | 124 | [View Track](https://mellowjeremy.bandcamp.com/track/realize) |
+| **Rendition** | 5:30 | 140 | [View Track](https://mellowjeremy.bandcamp.com/track/rendition) |
+| **Retro Revolving** | 5:34 | 129 | [View Track](https://mellowjeremy.bandcamp.com/track/retro-revolving) |
+| **Retro Revolving - Remastered 2026** | 5:34 | 129 | [View Track](https://mellowjeremy.bandcamp.com/track/retro-revolving-2) |
+| **Return** | 6:09 | 125 | [View Track](https://mellowjeremy.bandcamp.com/track/return) |
+| **Revel** | 6:30 | 140 | [View Track](https://mellowjeremy.bandcamp.com/track/revel) |
+| **Rhythm Player** | 10:20 | 125 | [View Track](https://mellowjeremy.bandcamp.com/track/rhythm-player) |
 | **Aviate** | 815 | 126 | [View Track]() |
 | **Aviate** | 815 | 126 | [View Track]() |
 
