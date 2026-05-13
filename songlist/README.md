@@ -135,7 +135,12 @@
 | **Return** | 6:09 | 125 | [View Track](https://mellowjeremy.bandcamp.com/track/return) |
 | **Revel** | 6:30 | 140 | [View Track](https://mellowjeremy.bandcamp.com/track/revel) |
 | **Rhythm Player** | 10:20 | 125 | [View Track](https://mellowjeremy.bandcamp.com/track/rhythm-player) |
-| **Aviate** | 815 | 126 | [View Track]() |
+| **Ride in Funk Computer** | 5:24 | 121 | [View Track](https://mellowjeremy.bandcamp.com/track/ride-in-funk-computer) |
+| **Right Back** | 6:07 |  | [View Track](https://mellowjeremy.bandcamp.com/track/right-back) |
+| **Right Back - Remix** | 5:34 |  | [View Track](https://mellowjeremy.bandcamp.com/track/right-back-remix) |
+| **Rockets Prelude** | 5:30 | 135 | [View Track](https://mellowjeremy.bandcamp.com/track/rockets-prelude) |
+| **Sequenced** | 5:35 | 126 | [View Track](https://mellowjeremy.bandcamp.com/track/sequenced) |
+| **Side Step** | 7:19 | 127 | [View Track](https://mellowjeremy.bandcamp.com/track/side-step) |
 | **Aviate** | 815 | 126 | [View Track]() |
 
 
