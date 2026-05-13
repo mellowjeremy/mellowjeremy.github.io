@@ -123,10 +123,10 @@
 | **Parallels** | 5:08 | 126 | [View Track](https://mellowjeremy.bandcamp.com/track/parallels) |
 | **Perceptions of an Inner Glimpse** | 7:42 | 112 | [View Track](https://mellowjeremy.bandcamp.com/track/perceptions-of-an-inner-glimpse) |
 | **Perceptions of an Inner Glimpse - Remastered 2026** | 7:42 | 112 | [View Track](https://mellowjeremy.bandcamp.com/track/perceptions-of-an-inner-glimpse-2) |
-| **Aviate** | 815 | 126 | [View Track]() |
-| **Aviate** | 815 | 126 | [View Track]() |
-| **Aviate** | 815 | 126 | [View Track]() |
-| **Aviate** | 815 | 126 | [View Track]() |
+| **Presence** | 9:20 | 125 | [View Track](https://mellowjeremy.bandcamp.com/track/presence) |
+| **Process Emotions** | 5:34 | 121 | [View Track](https://mellowjeremy.bandcamp.com/track/process-emotions) |
+| **Quadrants** | 7:44 | 127 | [View Track](https://mellowjeremy.bandcamp.com/track/quadrants) |
+| **Quantum** | 5:09 | 124 | [View Track](https://mellowjeremy.bandcamp.com/track/quantum) |
 | **Aviate** | 815 | 126 | [View Track]() |
 | **Aviate** | 815 | 126 | [View Track]() |
 
