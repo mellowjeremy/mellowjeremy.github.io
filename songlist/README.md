@@ -119,10 +119,10 @@
 | **Opaque** | 6:26 | 126 | [View Track](https://mellowjeremy.bandcamp.com/track/opaque) |
 | **Open Eyes** | 7:20 |  | [View Track](https://mellowjeremy.bandcamp.com/track/open-eyes) |
 | **Orbits** | 6:13 | 126 | [View Track](https://mellowjeremy.bandcamp.com/track/orbits) |
-| **Aviate** | 815 | 126 | [View Track]() |
-| **Aviate** | 815 | 126 | [View Track]() |
-| **Aviate** | 815 | 126 | [View Track]() |
-| **Aviate** | 815 | 126 | [View Track]() |
+| **Paradigm** | 6:00 | 123 | [View Track](https://mellowjeremy.bandcamp.com/track/paradigm) |
+| **Parallels** | 5:08 | 126 | [View Track](https://mellowjeremy.bandcamp.com/track/parallels) |
+| **Perceptions of an Inner Glimpse** | 7:42 | 112 | [View Track](https://mellowjeremy.bandcamp.com/track/perceptions-of-an-inner-glimpse) |
+| **Perceptions of an Inner Glimpse - Remastered 2026** | 7:42 | 112 | [View Track](https://mellowjeremy.bandcamp.com/track/perceptions-of-an-inner-glimpse-2) |
 | **Aviate** | 815 | 126 | [View Track]() |
 | **Aviate** | 815 | 126 | [View Track]() |
 | **Aviate** | 815 | 126 | [View Track]() |
