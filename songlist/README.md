@@ -178,7 +178,16 @@
 | **Thoughts** | 5:02 | 135 | [View Track](https://mellowjeremy.bandcamp.com/track/thoughts) |
 | **Tilted** | 8:22 | 126 | [View Track](https://mellowjeremy.bandcamp.com/track/tilted) |
 | **Tin** | 4:38 | 125 | [View Track](https://mellowjeremy.bandcamp.com/track/tin) |
-| **Aviate** | 815 | 126 | [View Track]() |
+| **Tones Moving** | 6:10 | 127 | [View Track](https://mellowjeremy.bandcamp.com/track/tones-moving) |
+| **Trades** | 4:37 | 128 | [View Track](https://mellowjeremy.bandcamp.com/track/trades) |
+| **Up Time** | 5:38 | 127 | [View Track](https://mellowjeremy.bandcamp.com/track/up-time) |
+| **Vertical** | 5:08 | 126 | [View Track](https://mellowjeremy.bandcamp.com/track/vertical) |
+| **Vintage** | 6:39 | 126 | [View Track](https://mellowjeremy.bandcamp.com/track/vintage) |
+| **Visions** | 5:48 | 135 | [View Track](https://mellowjeremy.bandcamp.com/track/visions) |
+| **Vital** | 5:15 | 128 | [View Track](https://mellowjeremy.bandcamp.com/track/vital) |
+| **Vivid** | 4:34 | 126 | [View Track](https://mellowjeremy.bandcamp.com/track/vivid) |
+| **Whisper** | 7:16 |  | [View Track](https://mellowjeremy.bandcamp.com/track/whisper) |
+| **Wonders** | 6:06 | 126 | [View Track](https://mellowjeremy.bandcamp.com/track/wonders) |
 
 
 
