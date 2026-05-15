@@ -162,6 +162,13 @@
 | **Sun Ride** | 4:24 | 140 | [View Track](https://mellowjeremy.bandcamp.com/track/sun-ride) |
 | **Synth Technology** | 5:13 | 132 | [View Track](https://mellowjeremy.bandcamp.com/track/synth-technology) |
 | **Synth Technology - Remastered 2026** | 5:13 | 132 | [View Track](https://mellowjeremy.bandcamp.com/track/synth-technology-2) |
+| **Synthesized** | 12:06 | 127 | [View Track](https://mellowjeremy.bandcamp.com/track/synthesized) |
+| **Teleport** | 6:43 | 140 | [View Track](https://mellowjeremy.bandcamp.com/track/teleport) |
+| **Teleport - Flying Mix** | 5:52 | 133 | [View Track](https://mellowjeremy.bandcamp.com/track/teleport-flying-mix) |
+| **Teleport - Remastered 2026** | 6:43 | 140 | [View Track](https://mellowjeremy.bandcamp.com/track/teleport-2) |
+| **Textures** | 5:41 | 126 | [View Track](https://mellowjeremy.bandcamp.com/track/textures) |
+| **Textures - Reflective Mix** | 4:59 | 122 | [View Track](https://mellowjeremy.bandcamp.com/track/textures-reflective-mix) |
+| **That Time** | 5:10 | 126 | [View Track](https://mellowjeremy.bandcamp.com/track/that-time) |
 | **Aviate** | 815 | 126 | [View Track]() |
 
 
