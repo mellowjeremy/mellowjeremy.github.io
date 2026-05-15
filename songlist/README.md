@@ -152,16 +152,16 @@
 | **Spacious** | 6:53 | 140 | [View Track](https://mellowjeremy.bandcamp.com/track/spacious) |
 | **Spectral** | 6:27 | 124 | [View Track](https://mellowjeremy.bandcamp.com/track/spectral) |
 | **Spinning Tops** | 6:07 | 126 | [View Track](https://mellowjeremy.bandcamp.com/track/spinning-tops) |
-| **Aviate** | 815 | 126 | [View Track]() |
-| **Aviate** | 815 | 126 | [View Track]() |
-| **Aviate** | 815 | 126 | [View Track]() |
-| **Aviate** | 815 | 126 | [View Track]() |
-| **Aviate** | 815 | 126 | [View Track]() |
-| **Aviate** | 815 | 126 | [View Track]() |
-| **Aviate** | 815 | 126 | [View Track]() |
-| **Aviate** | 815 | 126 | [View Track]() |
-| **Aviate** | 815 | 126 | [View Track]() |
-| **Aviate** | 815 | 126 | [View Track]() |
+| **Spirals** | 7:22 | 140 | [View Track](https://mellowjeremy.bandcamp.com/album/eras) |
+| **Startz and Stopz** | 5:08 | 126 | [View Track](https://mellowjeremy.bandcamp.com/album/sometimes) |
+| **State of Intuition** | 6:24 | 140 | [View Track](https://mellowjeremy.bandcamp.com/album/the-early-years) |
+| **Styles** | 5:33 | 128 | [View Track](https://mellowjeremy.bandcamp.com/track/styles) |
+| **Styles - Minimal Mix** | 6:50 | 124 | [View Track](https://mellowjeremy.bandcamp.com/track/styles-minimal-mix) |
+| **Summer Fun** | 6:27 | 125 | [View Track](https://mellowjeremy.bandcamp.com/track/summer-fun) |
+| **Summer Visions** | 6:09 | 126 | [View Track](https://mellowjeremy.bandcamp.com/track/summer-visions) |
+| **Sun Ride** | 4:24 | 140 | [View Track](https://mellowjeremy.bandcamp.com/track/sun-ride) |
+| **Synth Technology** | 5:13 | 132 | [View Track](https://mellowjeremy.bandcamp.com/track/synth-technology) |
+| **Synth Technology - Remastered 2026** | 5:13 | 132 | [View Track](https://mellowjeremy.bandcamp.com/track/synth-technology-2) |
 | **Aviate** | 815 | 126 | [View Track]() |
 
 
