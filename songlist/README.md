@@ -169,7 +169,17 @@
 | **Textures** | 5:41 | 126 | [View Track](https://mellowjeremy.bandcamp.com/track/textures) |
 | **Textures - Reflective Mix** | 4:59 | 122 | [View Track](https://mellowjeremy.bandcamp.com/track/textures-reflective-mix) |
 | **That Time** | 5:10 | 126 | [View Track](https://mellowjeremy.bandcamp.com/track/that-time) |
+| **The Grand Hypnotizer** | 6:15 | 126 | [View Track](https://mellowjeremy.bandcamp.com/track/the-grand-hypnotizer) |
+| **The Grand Hypnotizer - Remastered 2026** | 6:15 | 126 | [View Track](https://mellowjeremy.bandcamp.com/track/the-grand-hypnotizer-2) |
+| **The Way Things Were** | 7:31 | 140 | [View Track](https://mellowjeremy.bandcamp.com/track/the-way-things-were) |
+| **This Goes Out - House Mix** | 5:41 | 125 | [View Track](https://mellowjeremy.bandcamp.com/track/this-goes-out-house-mix) |
+| **This Goes Out - Original Mix** | 6:35 | 127 | [View Track](https://mellowjeremy.bandcamp.com/track/this-goes-out-original-mix) |
+| **This Time** | 5:43 |  | [View Track](https://mellowjeremy.bandcamp.com/track/this-time) |
+| **Thoughts** | 5:02 | 135 | [View Track](https://mellowjeremy.bandcamp.com/track/thoughts) |
+| **Tilted** | 8:22 | 126 | [View Track](https://mellowjeremy.bandcamp.com/track/tilted) |
+| **Tin** | 4:38 | 125 | [View Track](https://mellowjeremy.bandcamp.com/track/tin) |
 | **Aviate** | 815 | 126 | [View Track]() |
+
 
 
 
