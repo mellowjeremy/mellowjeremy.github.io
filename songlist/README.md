@@ -152,9 +152,9 @@
 | **Spacious** | 6:53 | 140 | [View Track](https://mellowjeremy.bandcamp.com/track/spacious) |
 | **Spectral** | 6:27 | 124 | [View Track](https://mellowjeremy.bandcamp.com/track/spectral) |
 | **Spinning Tops** | 6:07 | 126 | [View Track](https://mellowjeremy.bandcamp.com/track/spinning-tops) |
-| **Spirals** | 7:22 | 140 | [View Track](https://mellowjeremy.bandcamp.com/album/eras) |
-| **Startz and Stopz** | 5:08 | 126 | [View Track](https://mellowjeremy.bandcamp.com/album/sometimes) |
-| **State of Intuition** | 6:24 | 140 | [View Track](https://mellowjeremy.bandcamp.com/album/the-early-years) |
+| **Spirals** | 7:22 | 140 | [View Track](https://mellowjeremy.bandcamp.com/track/spirals) |
+| **Startz and Stopz** | 5:08 | 126 | [View Track](https://mellowjeremy.bandcamp.com/track/startz-and-stopz) |
+| **State of Intuition** | 6:24 | 140 | [View Track](https://mellowjeremy.bandcamp.com/track/state-of-intuition) |
 | **Styles** | 5:33 | 128 | [View Track](https://mellowjeremy.bandcamp.com/track/styles) |
 | **Styles - Minimal Mix** | 6:50 | 124 | [View Track](https://mellowjeremy.bandcamp.com/track/styles-minimal-mix) |
 | **Summer Fun** | 6:27 | 125 | [View Track](https://mellowjeremy.bandcamp.com/track/summer-fun) |
